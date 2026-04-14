@@ -1,0 +1,11 @@
+{
+    "name":"ayush",
+    "is teacher":true,
+    "address":{
+        "city":"delhi",
+        "state":"delhi"
+    },
+    "subject":["python","java","c++"]
+
+
+}
